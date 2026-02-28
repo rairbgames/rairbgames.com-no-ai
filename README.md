@@ -13,3 +13,7 @@ Should I be using typescript over javascript? | My proposed answer: I'm trying t
 Anyways, just got done installing 
 "You are using Node.js 20.18.0. Vite requires Node.js version 20.19+ or 22.12+. Please upgrade your Node.js version."
 Great.
+
+
+Hey. It's been a couple hours. I have figured out that tailwind is really cool and I prefer it over regular CSS.
+I just figured out how to change the icon and title, and I have centered a div. The hardest of all tasks, I know.
